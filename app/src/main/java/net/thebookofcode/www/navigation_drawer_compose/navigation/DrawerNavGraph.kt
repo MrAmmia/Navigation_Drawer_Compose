@@ -15,13 +15,13 @@ fun SetupNavGraph(
         startDestination = MenuItem.Home.route
     ) {
         composable(route = MenuItem.Home.route) {
-            ScreenContent(name = MenuItem.Home.title) {}
+            ScreenContent(name = MenuItem.Home.title)
         }
         composable(route = MenuItem.Profile.route) {
-            ScreenContent(name = MenuItem.Profile.title) {}
+            ScreenContent(name = MenuItem.Profile.title)
         }
         composable(route = MenuItem.Settings.route) {
-            ScreenContent(name = MenuItem.Settings.title) {}
+            ScreenContent(name = MenuItem.Settings.title)
         }
     }
 }

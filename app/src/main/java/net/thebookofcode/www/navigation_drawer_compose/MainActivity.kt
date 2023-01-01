@@ -14,10 +14,9 @@ class MainActivity : ComponentActivity() {
         setContent {
             Navigation_Drawer_ComposeTheme {
                 // A surface container using the 'background' color from the theme
-                val navController = rememberNavController()
                 MainScreen(
                     scaffoldState = rememberScaffoldState(),
-                    navController = navController
+                    navController = rememberNavController()
                 )
             }
         }

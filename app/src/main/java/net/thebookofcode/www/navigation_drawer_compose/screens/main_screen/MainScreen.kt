@@ -43,7 +43,7 @@ fun MainScreen(
         drawerGesturesEnabled = scaffoldState.drawerState.isOpen,
         drawerElevation = 8.dp,
         drawerContent = {
-            // This is for the header where profile and the likes go
+            // The header is commeneted here
             // DrawerHeader()
             DrawerBody(items = listOf(
                 MenuItem.Home,

@@ -11,13 +11,12 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.font.FontWeight
 
 @Composable
-fun ScreenContent(name: String, onClick: () -> Unit) {
+fun ScreenContent(name: String) {
     Box(
         modifier = Modifier.fillMaxSize(),
         contentAlignment = Alignment.Center
     ) {
         Text(
-            modifier = Modifier.clickable { onClick() },
             text = name,
             fontSize = MaterialTheme.typography.h5.fontSize,
             fontWeight = FontWeight.Medium
