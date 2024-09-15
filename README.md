@@ -16,8 +16,17 @@ This project demonstrates setting up an **AppBar** and **Navigation Drawer** in 
 - **Navigation**: Jetpack Navigation Component
 
 ## Screenshots
-![1](https://user-images.githubusercontent.com/61557175/210185230-b581867c-b31a-4273-bdef-879a5dbf4a9c.png)
-![2](https://user-images.githubusercontent.com/61557175/210185233-b99b0f1e-6724-477c-80c1-b930ccee5f2a.png)
+
+![navig_1](https://github.com/user-attachments/assets/7c302000-3abd-4f8f-acca-94d0e9a5c61a)
+![navig_2](https://github.com/user-attachments/assets/f69d3eb4-1115-4257-a4bb-da605045d458)
+![navig_3](https://github.com/user-attachments/assets/35664152-0d28-4688-afda-d0bd99d57826)
+![navig_4](https://github.com/user-attachments/assets/ad2a41cd-a2ee-4b9c-8e5c-0d05bb74fe9d)
+![navig_5](https://github.com/user-attachments/assets/1e4c26a7-c31b-4b0c-aa24-2971b861d0eb)
+
+
+
+
+
 
 ## Project Structure
 
